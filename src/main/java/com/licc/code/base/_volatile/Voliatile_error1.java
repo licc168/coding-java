@@ -4,6 +4,7 @@ import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 
 /**
+ * 对变量的写操作不依赖于当前值。
  * @author lichangchao
  * @version 1.0.0
  * @date 2017/6/14 13:12
