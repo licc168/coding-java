@@ -14,7 +14,19 @@ import org.jsoup.nodes.Document;
  */
 public class TestJsoup {
   public static void main(String arge[]) throws IOException {
-    Document doc = Jsoup.connect("https://www.wsy.com/item.htm?id=4302038").get();
-    System.out.println(doc.outerHtml());
+
+      for(int i =0 ;i<10;i++){
+        try {
+        if(i == 6){
+          String s = "asd";
+          Integer ii = Integer.parseInt(s);
+        }
+        System.out.println(i);
+      }catch (Exception e){
+
+
+        }
+    }
+
   }
 }

@@ -4,6 +4,8 @@
 ## java 基础
  >### 多线程
  >* **[volatile 关键字](/src/main/java/com/licc/code/base/_volatile/volatile.md)**
+ >* **[java内存模型](http://ifeve.com/java-memory-model-0/)**
+ >* **[cas原理](/src/main/java/com/licc/code/base/_cas/cas.md)**
  >* **[线程池](src/main/java/com/licc/code/base/_threadpool/threadpool.md)**
  >* **[synchronized](src/main/java/com/licc/code/base/_synchronized/synchronized.md)**
  >### jdk1.8
@@ -12,6 +14,7 @@
 ## web 
 >* **[swagger](src/main/java/com/licc/web/_swagger/swagger.md)**
 >* **[spring]()**
+>* **[淘宝大秒杀设计](http://geek.csdn.net/news/detail/59847)**
 ## mysql
  > ### 索引
  >* **[MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)**
