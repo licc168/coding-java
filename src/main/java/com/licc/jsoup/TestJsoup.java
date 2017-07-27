@@ -1,8 +1,6 @@
 package com.licc.jsoup;
 
 import java.io.IOException;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
 
 /**
  * Function:(这里用一句话描述这个类的作用)
