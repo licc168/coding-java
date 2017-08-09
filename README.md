@@ -16,6 +16,7 @@
 ## web 
 >* **[swagger](src/main/java/com/licc/web/_swagger/swagger.md)**
 >* **[spring]()**
+>* **[Lombok用法](http://codepub.cn/2015/07/30/Lombok-development-guidelines/)**
 >* **[淘宝大秒杀设计](http://geek.csdn.net/news/detail/59847)**
 ## mysql
  > ### 索引
