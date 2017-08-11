@@ -23,12 +23,19 @@
  >* **[MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)**
  >* **[MYSQL数据库军规](src/main/java/com/licc/mysql/mysqlRule.md)**
 
+## rabbitMq
+>* **[Consumer的ack机制 和 死信（Dead Letter）](https://github.com/pzxwhc/MineKnowContainer/issues/50)**
+>* **[浅析消息队列之rabbitMQ](http://www.jianshu.com/p/e5894d625a31)**
+>* **[Spring Boot系列(八)：RabbitMQ详解](https://zhuanlan.zhihu.com/p/25069044?refer=dreawer)**
+
 ## 数据结构
 >* **[时间复杂度](http://blog.csdn.net/zolalad/article/details/11848739)**
 
 ## 事务
 >- **[spring事务](https://www.ibm.com/developerworks/cn/education/opensource/os-cn-spring-trans/index.html)**
- 
+>- **[redis实现分布式锁](http://blog.jobbole.com/99751/)** 
+>- **[浅谈分布式锁](http://www.linkedkeeper.com/detail/blog.action?bid=1023&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)**
+
 ## 工具
  >* **[idea](src/main/java/com/licc/util/idea.md)**
  

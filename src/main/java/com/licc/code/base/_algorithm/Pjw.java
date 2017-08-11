@@ -16,9 +16,13 @@ public class Pjw {
     double y = 0.5;
     //不允许赊账  瓶盖能换空瓶
     count(10,2,0);
+    Integer i2 = -129;
 
+    Integer i3 = -129;
 
-
+    if(i2 == i3){
+      System.out.println("123213");
+    }
   }
 
   static void   count(double money,double price,int count) {
