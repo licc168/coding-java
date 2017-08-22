@@ -10,6 +10,10 @@
  >* **[synchronized](src/main/java/com/licc/code/base/_synchronized/synchronized.md)**
  >* **[自旋锁](src/main/java/com/licc/code/base/_lock/spinlock/spinlock.md)**
  >* **[深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)**
+ >###  Disruptor
+ >* **[高性能队列——Disruptor](https://tech.meituan.com/disruptor.html)**
+ >* **[一起聊聊Disruptor](https://zhuanlan.zhihu.com/p/21355046)**
+ >* **[三步创建Disruptor应用](http://colobu.com/2014/08/01/3-steps-to-create-a-disruptor-application/)**
  >### jdk1.8
  >* **[API-中文谷歌版-在线]( https://blog.fondme.cn/apidoc/jdk-1.8-google/)**  **[下载](http://download.csdn.net/detail/qw599186875/9802192)**
  >* **[时间函数](src/main/java/com/licc/code/base/_jdk8/date/date.md)**
@@ -45,8 +49,11 @@
 
  
 ## 正则
-> - [正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm)
+> - **[正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm)**
 
+## drools
+> - **[drools规则语法](http://holbrook.github.io/2012/12/06/rule_language.html)**
+>-  **[Drools简单使用示例](http://loveshisong.cn/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/2016-08-14-Drools%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B.html)**
 
  
  
